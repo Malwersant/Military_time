@@ -14,5 +14,3 @@ def time_convert():
 
 print(time_convert())
 
-#     print(pm_dict)
-# time_convert()
