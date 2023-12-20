@@ -14,3 +14,5 @@ def time_convert():
 
 print(time_convert())
 
+
+#to jest tylko głupi omentrz
